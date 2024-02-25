@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# E-Mart
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-## Available Scripts
+An awesome project which helps to understand the topics like UseState, useEffect,
 
-In the project directory, you can run:
+[View Demo](https://myfirstapp-6e4c3.web.app/). [Report Bug](https://github.com/Ravipal123). [Request Features](https://github.com/Ravipal123)
 
-### `npm start`
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Available Scripts](#prerequisites)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
+<img width="928" alt="comment" src="https://github.com/Ravipal123/comment-section/assets/100295535/b4676ad0-fc2e-49aa-a656-1b9f85c73604">
 
-### `npm test`
+This Project is about How the Comment-section on a post.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built With
+This application is built with love, dedication, coffee, and:
+-React.js
+-css
 
-### `npm run build`
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Available Scripts
+``` npm install```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
+```react-icons```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Usage
+For more examples, please refer to the [Documentation]([https://github.com/Ravipal123/e-commerce_pt](https://github.com/Ravipal123/comment-section)).
 
-### `npm run eject`
+## Roadmap
+See the [open issues](https://github.com/Ravipal123/comment-section)) for a list of proposed features (and known issues).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
+Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+-Fork the Project
+-Create your Feature Branch ('git checkout -b feature/AmazingFeature')
+-Commit your changes ('git commit -m 'Add some AmazingFeature'')
+-Push to the Branch (git push origin feature/AmazingFeature)
+-Open a Pull Request
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
+Distributed under the MIT License. See 'LICENSE' for more information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact
+My LinkedIn Project Link:(https://www.linkedin.com/in/ready-to-join-your-company/)
